@@ -1,3 +1,5 @@
+This program is for comparing the effectiveness of particle swarm optimization and differential evolution for finding the best vector to minimize a given test function of a provided dimensionality
+
 This program accepts a file in the format
 
 Equation (integer)
